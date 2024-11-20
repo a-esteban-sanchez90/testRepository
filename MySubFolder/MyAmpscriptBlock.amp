@@ -3,4 +3,5 @@
 SET @MyVariable                 = 'MyVariable'
 
 /* And this is a change to merge conflicts */
+
 ]%%
